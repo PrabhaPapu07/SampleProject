@@ -7,5 +7,11 @@ public class Samplee {
 
 		System.out.println("1234");
 	}
+	
+	public void getName() {
+		// TODO Auto-generated method stub
+
+		System.out.println("Prabha");
+	}
 
 }
