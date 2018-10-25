@@ -13,5 +13,11 @@ public class Samplee {
 
 		System.out.println("Prabha");
 	}
+	
+	public void getEmail() {
+		// TODO Auto-generated method stub
+
+		System.out.println("Prabha@gmail.com");
+	}
 
 }
